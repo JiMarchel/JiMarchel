@@ -6,5 +6,14 @@
   </samp>
 </div>
 
+### About Me 👨🏻
 
+- 👨🏻‍💼 My name is `Moch Jimmy Marchel`
+- 🏠 Live in `Sidoarjo, Indonesia`
+- 🧍🏻‍♂️ `20` years old
+- 💻 `Computer Science` Student at `Universitas Muhammadiyah Sidoarjo`
+
+### Skill Set
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,mysql,js,ts,nextjs,neovim,linux)](https://skillicons.dev)
 
