@@ -29,7 +29,7 @@
 
 <h3>Languages and Tools</h3>
 
-[![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mysql,neovim,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mysql,neovim,linux,docker)](https://skillicons.dev)
 
 &nbsp;
 &nbsp;
