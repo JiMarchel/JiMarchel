@@ -20,9 +20,7 @@
 - 🌍 I'm based in **Indonesia** 🇮🇩
 - 🧠 Languages I learn or master: **JavaScript**, **TypeScript**
 - 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **Web Development**
-- ❓ Ask me a question at [my Facebook](https://www.facebook.com/profile.php?id=100004857497501)
-- 📫 How to reach me **jmarchel100@gmail.com**
+- 📫 How to reach me **dev@jimarchel.my.id**
 
 &nbsp;
 &nbsp;
