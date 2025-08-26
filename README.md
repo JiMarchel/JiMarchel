@@ -18,7 +18,7 @@
 &nbsp;
 
 - 🌍 I'm based in **Indonesia** 🇮🇩
-- 🧠 Languages I learn or master: **JavaScript**, **TypeScript**
+- 🧠 Languages I master: **JavaScript**, **TypeScript**
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me **dev@jimarchel.my.id**
 
