@@ -11,19 +11,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Mochamad Jimmy Marchel</h1>
-<h3 align="center">A passionate FullStack Developer from Indoensia</h3>
 
-&nbsp;
-&nbsp;
-
-- 🌍 I'm based in **Indonesia** 🇮🇩
-- 🧠 Languages I master: **JavaScript**, **TypeScript**
-- 🌱 I’m currently learning **Rust**
-- 📫 How to reach me **dev@jimarchel.my.id**
-
-&nbsp;
-&nbsp;
 
 <h3>Languages and Tools</h3>
 
