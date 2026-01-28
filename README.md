@@ -10,24 +10,68 @@
   <img src="https://komarev.com/ghpvc/?username=JiMarchel&label=Profile%20views&color=brightgreen&style=flat" alt="JiMarchel" /> 
 </div>
 
+<h1 align="center">Hi there! 👋 I'm JiMarchel</h1>
 
+<h3 align="center">A passionate developer exploring the realms of web development, systems programming, and cybersecurity</h3>
 
+---
 
-<h3>Languages and Tools</h3>
+<h3>🚀 About Me</h3>
 
-[![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mysql,neovim,linux,docker)](https://skillicons.dev)
+- 🔭 I'm currently working on **full-stack web applications** and exploring **Rust** for systems programming
+- 🌱 I'm learning **data structures and algorithms**, and diving into **security and CTF challenges**
+- 💼 My tech stack includes modern web frameworks (React, Vue,) and systems languages (Rust)
+- 🎯 I enjoy solving problems on **LeetCode** and **CTF Challenge**
+- ⚡ Fun fact: I write code in **Neovim** and containerize everything with **Docker**
 
-&nbsp;
-&nbsp;
+---
 
-<h3>Github Stats</h3>
+<h3>💻 Languages and Tools</h3>
+
+[![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,svelte,nodejs,mysql,rust,neovim,linux,docker,git,github)](https://skillicons.dev)
+
+---
+
+<h3>📚 Featured Projects</h3>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/JiMarchel/secure_vault">🔐 Secure Vault</a></h4>
+      <p>A secure password management application built with Vue</p>
+      <p><strong>Tech:</strong> Vue.js, Rust</p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/JiMarchel/portfolio">🌐 Portfolio</a></h4>
+      <p>My personal portfolio website showcasing my projects and skills</p>
+      <p><strong>Tech:</strong> Sveltekit</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiMarchel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JiMarchel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JiMarchel&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiMarchel&&theme=tokyonight" alt="rishavchanda" /></p>
 
-&nbsp;
-&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JiMarchel&show_icons=true&locale=en&theme=tokyonight" alt="JiMarchel" /></p>
 
-<h3>LeetCode Stats</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiMarchel&&theme=tokyonight" alt="JiMarchel" /></p>
+
+---
+
+<h3>🏆 LeetCode Stats</h3>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/JiMarchel)](https://leetcode.com/JiMarchel)
+
+---
+
+<h3 align="center">💬 Let's Connect!</h3>
+
+<p align="center">
+  <a href="https://github.com/JiMarchel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/JiMarchel"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+<p align="center">Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀</p>
