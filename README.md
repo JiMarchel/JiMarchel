@@ -10,11 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=JiMarchel&label=Profile%20views&color=brightgreen&style=flat" alt="JiMarchel" /> 
 </div>
 
-<h1 align="center">Hi there! 👋 I'm JiMarchel</h1>
+<h1 align="center">Hi there! 👋 I'm Moch Jimmy Marchel</h1>
 
-<h3 align="center">A passionate developer exploring the realms of web development, systems programming, and cybersecurity</h3>
-
----
 
 <h3>🚀 About Me</h3>
 
