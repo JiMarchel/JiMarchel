@@ -67,7 +67,7 @@
       <p><strong>Tech:</strong> Rust</p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/JiMarchel/ctf-writeups">🏴‍☠️ CTF Writeups</a></h4>
+      <h4><a href="https://github.com/JiMarchel/ctf-writeups">🚩 CTF Writeups</a></h4>
       <p>My solutions and writeups for various CTF challenges</p>
       <p><strong>Tech:</strong> Security, CTF</p>
     </td>
