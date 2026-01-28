@@ -19,7 +19,7 @@
 - 🌱 I'm learning **data structures and algorithms**, and diving into **security and CTF challenges**
 - 💼 My tech stack includes modern web frameworks (React, Vue,) and systems languages (Rust)
 - 🎯 I enjoy solving problems on **LeetCode** and **CTF Challenge**
-- ⚡ Fun fact: I write code in **Neovim** and containerize everything with **Docker**
+- ⚡ Fun fact: I write code in **Neovim** btw
 
 ---
 
